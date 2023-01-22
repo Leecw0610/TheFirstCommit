@@ -1,2 +1,2 @@
-email :
-gitID :
+email : leecw19861@naver.com
+gitID : leecw0610
